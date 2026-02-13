@@ -12,6 +12,7 @@
     </properties>
 
     <build>
+    <finalName>manual-batch</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>

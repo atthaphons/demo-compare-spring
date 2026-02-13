@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ตั้งค่า Path และชื่อไฟล์
-JAR_NAME="spring-batch-app-1.0-SNAPSHOT.jar"  # <-- เปลี่ยนเป็นชื่อไฟล์จริงของคุณ
+JAR_NAME="spring-batch-app.jar"  # <-- เปลี่ยนเป็นชื่อไฟล์จริงของคุณ
 LOG_FILE="/app/scripts/logs/java_batch_spring.log"
 TIMESTAMP=$(date "+%Y-%m-%d %H:%M:%S")
 

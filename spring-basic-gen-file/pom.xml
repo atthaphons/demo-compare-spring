@@ -23,6 +23,7 @@
     </dependencies>
 
     <build>
+      <finalName>spring-batch-app</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
