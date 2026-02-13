@@ -2,29 +2,31 @@ package com.example.manual;
 
 import java.io.FileWriter;
 import java.io.IOException;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
 
 public class ManualApp {
     public static void main(String[] args) {
-        // เช็ค Parameter
-        if (args.length < 2) {
-            System.err.println("Usage: java -jar app.jar <param1> <param2>");
-            System.exit(1);
-        }
+        String url = "jdbc:oracle:thin:@localhost:8521:DXCORA19C";
+        String user = "DEMO";
+        String password = "DEMO";
+        String query = "SELECT MAX(NAME) FROM PRODUCT";
 
-        String p1 = args[0];
-        String p2 = args[1];
-        String path = "hello_manual.txt"; // Hardcoded หรืออ่านจาก System.getProperty
+        try (Connection conn = DriverManager.getConnection(url, user, password);
+                Statement stmt = conn.createStatement();
+                ResultSet rs = stmt.executeQuery(query);
+                FileWriter writer = new FileWriter("product_manual.txt")) {
 
-        try (FileWriter writer = new FileWriter(path)) {
-            writer.write("hello " + p1 + " " + p2);
-            // ไม่ต้องสั่ง writer.close() เองแล้ว พอกลางปีกกาปิด } ปุ๊บ มันจะ Save ให้ทันที
-        } catch (IOException e) {
+            if (rs.next()) {
+                String productName = rs.getString(1);
+                writer.write("Max Product Name: " + productName);
+                System.out.println("Oracle Data Saved: " + productName);
+            }
+        } catch (SQLException | java.io.IOException e) {
             e.printStackTrace();
-            System.exit(1);
         }
-
-        // หลังจากพ้น block try-with-resources มาแล้ว ค่อยสั่ง Print และ Exit
-        System.out.println("File written to: " + path);
-        System.exit(0);
     }
 }
