@@ -1,3 +1,5 @@
+com\example\spring\HelloRunner.class
 com\example\spring\HelloService.class
+com\example\spring\SumRunner.class
 com\example\spring\SpringApp.class
 com\example\spring\SumService.class

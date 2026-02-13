@@ -1,1 +1,1 @@
-Spring Sum Result: 60
+Spring Sum Result: 115

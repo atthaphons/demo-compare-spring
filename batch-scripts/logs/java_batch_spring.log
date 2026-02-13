@@ -1,0 +1,75 @@
+[2026-02-13 14:36:33] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.0)
+
+2026-02-13T14:36:36.966+07:00  INFO 55 --- [           main] com.example.spring.SpringApp             : Starting SpringApp v1.0-SNAPSHOT using Java 17.0.18 with PID 55 (/app/scripts/spring-batch-app-1.0-SNAPSHOT.jar started by root in /app/scripts)
+2026-02-13T14:36:36.973+07:00  INFO 55 --- [           main] com.example.spring.SpringApp             : No active profile set, falling back to 1 default profile: "default"
+2026-02-13T14:36:39.305+07:00  INFO 55 --- [           main] com.example.spring.SpringApp             : Started SpringApp in 4.203 seconds (process running for 6.053)
+Spring Boot Context wrote to: hello_spring.txt
+[2026-02-13 14:36:33] Batch Finished.
+[2026-02-13 14:39:07] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.0)
+
+2026-02-13T14:39:11.488+07:00  INFO 90 --- [           main] com.example.spring.SpringApp             : Starting SpringApp v1.0-SNAPSHOT using Java 17.0.18 with PID 90 (/app/scripts/spring-batch-app-1.0-SNAPSHOT.jar started by root in /app/scripts)
+2026-02-13T14:39:11.497+07:00  INFO 90 --- [           main] com.example.spring.SpringApp             : No active profile set, falling back to 1 default profile: "default"
+2026-02-13T14:39:14.181+07:00  INFO 90 --- [           main] com.example.spring.SpringApp             : Started SpringApp in 4.496 seconds (process running for 6.475)
+Spring Boot Context wrote to: hello_spring.txt
+[2026-02-13 14:39:07] Batch Finished.
+[2026-02-13 14:39:47] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.0)
+
+2026-02-13T14:39:50.821+07:00  INFO 228 --- [           main] com.example.spring.SpringApp             : Starting SpringApp v1.0-SNAPSHOT using Java 17.0.18 with PID 228 (/app/scripts/spring-batch-app-1.0-SNAPSHOT.jar started by root in /app/scripts)
+2026-02-13T14:39:50.830+07:00  INFO 228 --- [           main] com.example.spring.SpringApp             : No active profile set, falling back to 1 default profile: "default"
+2026-02-13T14:39:53.040+07:00  INFO 228 --- [           main] com.example.spring.SpringApp             : Started SpringApp in 4.003 seconds (process running for 5.787)
+Spring Boot Context wrote to: hello_spring.txt
+[2026-02-13 14:39:47] Batch Finished.
+[2026-02-13 14:41:45] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.0)
+
+2026-02-13T14:41:48.715+07:00  INFO 263 --- [           main] com.example.spring.SpringApp             : Starting SpringApp v1.0-SNAPSHOT using Java 17.0.18 with PID 263 (/app/scripts/spring-batch-app-1.0-SNAPSHOT.jar started by root in /app/scripts)
+2026-02-13T14:41:48.726+07:00  INFO 263 --- [           main] com.example.spring.SpringApp             : No active profile set, falling back to 1 default profile: "default"
+2026-02-13T14:41:50.985+07:00  INFO 263 --- [           main] com.example.spring.SpringApp             : Started SpringApp in 3.947 seconds (process running for 5.516)
+Spring Boot Context wrote to: hello_spring.txt
+[2026-02-13 14:41:45] Batch Finished.
+[2026-02-13 14:42:21] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.0)
+
+2026-02-13T14:42:25.112+07:00  INFO 324 --- [           main] com.example.spring.SpringApp             : Starting SpringApp v1.0-SNAPSHOT using Java 17.0.18 with PID 324 (/app/scripts/spring-batch-app-1.0-SNAPSHOT.jar started by root in /app/scripts)
+2026-02-13T14:42:25.122+07:00  INFO 324 --- [           main] com.example.spring.SpringApp             : No active profile set, falling back to 1 default profile: "default"
+2026-02-13T14:42:27.527+07:00  INFO 324 --- [           main] com.example.spring.SpringApp             : Started SpringApp in 4.448 seconds (process running for 6.173)
+Spring Boot Context wrote to: hello_spring.txt
+[2026-02-13 14:42:21] Batch Finished.

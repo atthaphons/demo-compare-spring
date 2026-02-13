@@ -1,0 +1,1458 @@
+[2026-02-10 15:38:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T15:38:04.700+07:00  INFO 7425 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 7425 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T15:38:04.717+07:00  INFO 7425 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T15:38:05.954+07:00  INFO 7425 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 3.027 seconds (process running for 4.837)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/sample-output_TEST00Z
+Timestamp: 2026-02-10T15:38:05.967214076.txt
+[2026-02-10 15:38:01] Batch Finished.
+[2026-02-10 15:39:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T15:39:03.716+07:00  INFO 7458 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 7458 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T15:39:03.729+07:00  INFO 7458 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T15:39:04.874+07:00  INFO 7458 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.59 seconds (process running for 3.815)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/sample-output_TEST00Z
+Timestamp: 2026-02-10T15:39:04.888338951.txt
+[2026-02-10 15:39:01] Batch Finished.
+[2026-02-10 15:40:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T15:40:04.479+07:00  INFO 7490 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 7490 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T15:40:04.493+07:00  INFO 7490 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T15:40:05.732+07:00  INFO 7490 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.607 seconds (process running for 3.756)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/sample-output_TEST00Z
+Timestamp: 2026-02-10T15:40:05.746704483.txt
+[2026-02-10 15:40:01] Batch Finished.
+[2026-02-10 15:41:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T15:41:04.383+07:00  INFO 7522 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 7522 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T15:41:04.395+07:00  INFO 7522 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T15:41:05.469+07:00  INFO 7522 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.413 seconds (process running for 3.608)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/sample-output_TEST00Z
+Timestamp: 2026-02-10T15:41:05.481128062.txt
+[2026-02-10 15:41:01] Batch Finished.
+[2026-02-10 15:42:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T15:42:04.116+07:00  INFO 7554 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 7554 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T15:42:04.128+07:00  INFO 7554 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T15:42:05.371+07:00  INFO 7554 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.67 seconds (process running for 3.803)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/sample-output_TEST00Z
+Timestamp: 2026-02-10T15:42:05.382504649.txt
+[2026-02-10 15:42:01] Batch Finished.
+[2026-02-10 15:43:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T15:43:04.077+07:00  INFO 7586 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 7586 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T15:43:04.090+07:00  INFO 7586 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T15:43:05.264+07:00  INFO 7586 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.567 seconds (process running for 3.803)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/sample-output_TEST00Z
+Timestamp: 2026-02-10T15:43:05.274233188.txt
+[2026-02-10 15:43:01] Batch Finished.
+[2026-02-10 15:44:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T15:44:03.689+07:00  INFO 7618 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 7618 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T15:44:03.702+07:00  INFO 7618 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T15:44:04.952+07:00  INFO 7618 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.482 seconds (process running for 3.596)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/sample-output_TEST00Z
+Timestamp: 2026-02-10T15:44:04.967607655.txt
+[2026-02-10 15:44:01] Batch Finished.
+[2026-02-10 15:45:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T15:45:03.426+07:00  INFO 7650 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 7650 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T15:45:03.438+07:00  INFO 7650 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T15:45:04.652+07:00  INFO 7650 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.425 seconds (process running for 3.592)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/sample-output_TEST00Z
+Timestamp: 2026-02-10T15:45:04.665397532.txt
+[2026-02-10 15:45:01] Batch Finished.
+[2026-02-10 15:46:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T15:46:04.230+07:00  INFO 7682 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 7682 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T15:46:04.247+07:00  INFO 7682 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T15:46:05.482+07:00  INFO 7682 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.572 seconds (process running for 3.738)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/sample-output_TEST00Z
+Timestamp: 2026-02-10T15:46:05.494210055.txt
+[2026-02-10 15:46:01] Batch Finished.
+[2026-02-10 15:47:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T15:47:04.212+07:00  INFO 7714 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 7714 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T15:47:04.227+07:00  INFO 7714 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T15:47:05.421+07:00  INFO 7714 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.599 seconds (process running for 3.824)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/sample-output_TEST00Z
+Timestamp: 2026-02-10T15:47:05.444851311.txt
+[2026-02-10 15:47:01] Batch Finished.
+[2026-02-10 15:56:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T15:56:04.376+07:00  INFO 7784 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 7784 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T15:56:04.387+07:00  INFO 7784 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T15:56:05.546+07:00  INFO 7784 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.351 seconds (process running for 3.619)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-10T15:56:05.556952775.txt
+[2026-02-10 15:56:01] Batch Finished.
+[2026-02-10 15:57:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T15:57:03.994+07:00  INFO 7816 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 7816 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T15:57:04.004+07:00  INFO 7816 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T15:57:05.168+07:00  INFO 7816 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.377 seconds (process running for 3.533)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-10T15:57:05.180411667.txt
+[2026-02-10 15:57:01] Batch Finished.
+[2026-02-10 15:58:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T15:58:03.774+07:00  INFO 7848 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 7848 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T15:58:03.786+07:00  INFO 7848 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T15:58:05.008+07:00  INFO 7848 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.52 seconds (process running for 3.721)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-10T15:58:05.022820751.txt
+[2026-02-10 15:58:01] Batch Finished.
+[2026-02-10 15:59:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T15:59:03.715+07:00  INFO 7880 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 7880 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T15:59:03.729+07:00  INFO 7880 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T15:59:04.886+07:00  INFO 7880 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.497 seconds (process running for 3.723)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-10T15:59:04.897572153.txt
+[2026-02-10 15:59:01] Batch Finished.
+[2026-02-10 16:00:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T16:00:04.744+07:00  INFO 7912 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 7912 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T16:00:04.757+07:00  INFO 7912 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T16:00:06.063+07:00  INFO 7912 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.717 seconds (process running for 4.072)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-10T16:00:06.072715544.txt
+[2026-02-10 16:00:01] Batch Finished.
+[2026-02-10 16:01:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T16:01:03.610+07:00  INFO 7944 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 7944 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T16:01:03.625+07:00  INFO 7944 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T16:01:04.742+07:00  INFO 7944 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.459 seconds (process running for 3.583)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-10T16:01:04.755706600.txt
+[2026-02-10 16:01:01] Batch Finished.
+[2026-02-10 16:02:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T16:02:04.681+07:00  INFO 7976 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 7976 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T16:02:04.694+07:00  INFO 7976 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T16:02:06.027+07:00  INFO 7976 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.742 seconds (process running for 4.142)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-10T16:02:06.040136917.txt
+[2026-02-10 16:02:01] Batch Finished.
+[2026-02-10 16:03:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T16:03:03.757+07:00  INFO 8008 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 8008 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T16:03:03.769+07:00  INFO 8008 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T16:03:04.931+07:00  INFO 8008 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.671 seconds (process running for 3.785)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-10T16:03:04.947920743.txt
+[2026-02-10 16:03:01] Batch Finished.
+[2026-02-10 16:04:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T16:04:03.605+07:00  INFO 8040 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 8040 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T16:04:03.616+07:00  INFO 8040 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T16:04:04.697+07:00  INFO 8040 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.445 seconds (process running for 3.643)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-10T16:04:04.708620916.txt
+[2026-02-10 16:04:01] Batch Finished.
+[2026-02-10 16:05:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T16:05:05.462+07:00  INFO 8072 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 8072 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T16:05:05.477+07:00  INFO 8072 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T16:05:07.129+07:00  INFO 8072 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 3.407 seconds (process running for 5.325)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-10T16:05:07.144900264.txt
+[2026-02-10 16:05:01] Batch Finished.
+[2026-02-10 16:06:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T16:06:03.886+07:00  INFO 8105 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 8105 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T16:06:03.899+07:00  INFO 8105 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T16:06:05.173+07:00  INFO 8105 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.646 seconds (process running for 3.914)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-10T16:06:05.184260429.txt
+[2026-02-10 16:06:01] Batch Finished.
+[2026-02-10 16:07:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T16:07:03.813+07:00  INFO 8137 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 8137 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T16:07:03.825+07:00  INFO 8137 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T16:07:05.314+07:00  INFO 8137 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.867 seconds (process running for 4.04)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-10T16:07:05.331413580.txt
+[2026-02-10 16:07:01] Batch Finished.
+[2026-02-10 16:08:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T16:08:04.190+07:00  INFO 8169 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 8169 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T16:08:04.204+07:00  INFO 8169 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T16:08:05.316+07:00  INFO 8169 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.647 seconds (process running for 3.879)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-10T16:08:05.326170701.txt
+[2026-02-10 16:08:01] Batch Finished.
+[2026-02-10 16:09:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T16:09:03.905+07:00  INFO 8201 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 8201 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T16:09:03.918+07:00  INFO 8201 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T16:09:05.023+07:00  INFO 8201 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.442 seconds (process running for 3.615)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-10T16:09:05.033315031.txt
+[2026-02-10 16:09:01] Batch Finished.
+[2026-02-10 16:10:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T16:10:04.516+07:00  INFO 8233 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 8233 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T16:10:04.554+07:00  INFO 8233 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T16:10:06.479+07:00  INFO 8233 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 3.844 seconds (process running for 5.363)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-10T16:10:06.509873435.txt
+[2026-02-10 16:10:01] Batch Finished.
+[2026-02-10 16:11:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T16:11:04.707+07:00  INFO 8265 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 8265 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T16:11:04.721+07:00  INFO 8265 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T16:11:06.256+07:00  INFO 8265 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 3.171 seconds (process running for 4.589)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-10T16:11:06.272635754.txt
+[2026-02-10 16:11:01] Batch Finished.
+[2026-02-10 16:12:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T16:12:04.940+07:00  INFO 8297 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 8297 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T16:12:04.957+07:00  INFO 8297 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T16:12:06.441+07:00  INFO 8297 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 3.5 seconds (process running for 5.031)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-10T16:12:06.454642509.txt
+[2026-02-10 16:12:01] Batch Finished.
+[2026-02-10 16:13:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T16:13:05.129+07:00  INFO 8330 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 8330 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T16:13:05.147+07:00  INFO 8330 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T16:13:06.691+07:00  INFO 8330 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 3.515 seconds (process running for 5.136)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-10T16:13:06.706768709.txt
+[2026-02-10 16:13:01] Batch Finished.
+[2026-02-10 16:14:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T16:14:05.295+07:00  INFO 8362 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 8362 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T16:14:05.311+07:00  INFO 8362 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T16:14:07.487+07:00  INFO 8362 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 4.044 seconds (process running for 5.655)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-10T16:14:07.556228366.txt
+[2026-02-10 16:14:01] Batch Finished.
+[2026-02-10 16:15:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-10T16:15:05.000+07:00  INFO 8395 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 8395 (/app/scripts/myapp.jar started by root in /root)
+2026-02-10T16:15:05.017+07:00  INFO 8395 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-10T16:15:06.426+07:00  INFO 8395 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 3.0 seconds (process running for 4.481)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-10T16:15:06.444390097.txt
+[2026-02-10 16:15:01] Batch Finished.
+[2026-02-11 10:42:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T10:42:03.445+07:00  INFO 133 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 133 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T10:42:03.458+07:00  INFO 133 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T10:42:04.485+07:00  INFO 133 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.235 seconds (process running for 3.399)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T10:42:04.494569420.txt
+[2026-02-11 10:42:01] Batch Finished.
+[2026-02-11 10:43:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T10:43:04.033+07:00  INFO 165 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 165 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T10:43:04.047+07:00  INFO 165 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T10:43:05.157+07:00  INFO 165 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.452 seconds (process running for 3.569)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T10:43:05.169579317.txt
+[2026-02-11 10:43:01] Batch Finished.
+[2026-02-11 10:44:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T10:44:03.733+07:00  INFO 203 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 203 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T10:44:03.743+07:00  INFO 203 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T10:44:04.832+07:00  INFO 203 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.316 seconds (process running for 3.56)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T10:44:04.844073273.txt
+[2026-02-11 10:44:01] Batch Finished.
+[2026-02-11 10:45:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T10:45:04.022+07:00  INFO 235 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 235 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T10:45:04.031+07:00  INFO 235 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T10:45:04.984+07:00  INFO 235 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.062 seconds (process running for 3.047)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T10:45:04.994896725.txt
+[2026-02-11 10:45:01] Batch Finished.
+[2026-02-11 10:46:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T10:46:03.272+07:00  INFO 267 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 267 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T10:46:03.281+07:00  INFO 267 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T10:46:04.183+07:00  INFO 267 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 1.952 seconds (process running for 3.098)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T10:46:04.191962966.txt
+[2026-02-11 10:46:01] Batch Finished.
+[2026-02-11 10:47:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T10:47:03.487+07:00  INFO 299 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 299 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T10:47:03.497+07:00  INFO 299 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T10:47:04.500+07:00  INFO 299 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.255 seconds (process running for 3.218)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T10:47:04.508842441.txt
+[2026-02-11 10:47:01] Batch Finished.
+[2026-02-11 10:48:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T10:48:03.650+07:00  INFO 331 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 331 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T10:48:03.659+07:00  INFO 331 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T10:48:04.605+07:00  INFO 331 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.049 seconds (process running for 3.001)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T10:48:04.616210663.txt
+[2026-02-11 10:48:01] Batch Finished.
+[2026-02-11 10:49:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T10:49:03.723+07:00  INFO 363 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 363 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T10:49:03.731+07:00  INFO 363 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T10:49:04.665+07:00  INFO 363 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 1.987 seconds (process running for 2.944)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T10:49:04.677809843.txt
+[2026-02-11 10:49:01] Batch Finished.
+[2026-02-11 10:50:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T10:50:03.723+07:00  INFO 395 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 395 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T10:50:03.734+07:00  INFO 395 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T10:50:04.843+07:00  INFO 395 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.13 seconds (process running for 3.066)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T10:50:04.857152475.txt
+[2026-02-11 10:50:01] Batch Finished.
+[2026-02-11 10:51:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T10:51:04.252+07:00  INFO 427 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 427 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T10:51:04.262+07:00  INFO 427 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T10:51:05.247+07:00  INFO 427 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.139 seconds (process running for 3.272)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T10:51:05.261011889.txt
+[2026-02-11 10:51:01] Batch Finished.
+[2026-02-11 10:52:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T10:52:04.387+07:00  INFO 459 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 459 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T10:52:04.400+07:00  INFO 459 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T10:52:05.567+07:00  INFO 459 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.623 seconds (process running for 4.203)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T10:52:05.578005031.txt
+[2026-02-11 10:52:01] Batch Finished.
+[2026-02-11 10:53:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T10:53:03.997+07:00  INFO 491 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 491 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T10:53:04.009+07:00  INFO 491 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T10:53:04.910+07:00  INFO 491 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.155 seconds (process running for 3.239)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T10:53:04.918926911.txt
+[2026-02-11 10:53:01] Batch Finished.
+[2026-02-11 10:54:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T10:54:03.453+07:00  INFO 523 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 523 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T10:54:03.464+07:00  INFO 523 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T10:54:04.404+07:00  INFO 523 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.118 seconds (process running for 3.365)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T10:54:04.414988714.txt
+[2026-02-11 10:54:01] Batch Finished.
+[2026-02-11 10:55:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T10:55:03.945+07:00  INFO 555 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 555 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T10:55:03.958+07:00  INFO 555 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T10:55:05.001+07:00  INFO 555 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.265 seconds (process running for 3.493)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T10:55:05.014031454.txt
+[2026-02-11 10:55:01] Batch Finished.
+[2026-02-11 10:56:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T10:56:03.434+07:00  INFO 587 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 587 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T10:56:03.449+07:00  INFO 587 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T10:56:04.791+07:00  INFO 587 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.58 seconds (process running for 3.684)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T10:56:04.805533342.txt
+[2026-02-11 10:56:01] Batch Finished.
+[2026-02-11 10:57:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T10:57:04.494+07:00  INFO 619 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 619 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T10:57:04.507+07:00  INFO 619 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T10:57:05.664+07:00  INFO 619 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.377 seconds (process running for 3.711)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T10:57:05.672931325.txt
+[2026-02-11 10:57:01] Batch Finished.
+[2026-02-11 10:58:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T10:58:03.854+07:00  INFO 651 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 651 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T10:58:03.866+07:00  INFO 651 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T10:58:04.853+07:00  INFO 651 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.066 seconds (process running for 3.097)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T10:58:04.863844148.txt
+[2026-02-11 10:58:01] Batch Finished.
+[2026-02-11 10:59:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T10:59:04.010+07:00  INFO 683 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 683 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T10:59:04.021+07:00  INFO 683 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T10:59:05.113+07:00  INFO 683 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.146 seconds (process running for 3.163)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T10:59:05.124640541.txt
+[2026-02-11 10:59:01] Batch Finished.
+[2026-02-11 11:00:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:00:03.296+07:00  INFO 715 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 715 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:00:03.307+07:00  INFO 715 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:00:04.492+07:00  INFO 715 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.306 seconds (process running for 3.276)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:00:04.501510410.txt
+[2026-02-11 11:00:01] Batch Finished.
+[2026-02-11 11:01:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:01:03.577+07:00  INFO 747 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 747 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:01:03.587+07:00  INFO 747 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:01:04.496+07:00  INFO 747 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.0 seconds (process running for 2.917)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:01:04.506128991.txt
+[2026-02-11 11:01:01] Batch Finished.
+[2026-02-11 11:02:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:02:03.551+07:00  INFO 788 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 788 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:02:03.560+07:00  INFO 788 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:02:04.449+07:00  INFO 788 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 1.942 seconds (process running for 2.853)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:02:04.458681028.txt
+[2026-02-11 11:02:01] Batch Finished.
+[2026-02-11 11:03:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:03:03.779+07:00  INFO 820 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 820 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:03:03.789+07:00  INFO 820 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:03:04.871+07:00  INFO 820 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.256 seconds (process running for 3.318)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:03:04.887805405.txt
+[2026-02-11 11:03:01] Batch Finished.
+[2026-02-11 11:04:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:04:04.050+07:00  INFO 852 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 852 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:04:04.059+07:00  INFO 852 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:04:05.022+07:00  INFO 852 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.026 seconds (process running for 3.045)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:04:05.032573854.txt
+[2026-02-11 11:04:01] Batch Finished.
+[2026-02-11 11:05:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:05:03.166+07:00  INFO 884 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 884 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:05:03.179+07:00  INFO 884 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:05:04.122+07:00  INFO 884 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.036 seconds (process running for 2.975)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:05:04.130951305.txt
+[2026-02-11 11:05:01] Batch Finished.
+[2026-02-11 11:06:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:06:03.417+07:00  INFO 916 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 916 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:06:03.429+07:00  INFO 916 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:06:04.714+07:00  INFO 916 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.465 seconds (process running for 3.504)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:06:04.728940568.txt
+[2026-02-11 11:06:01] Batch Finished.
+[2026-02-11 11:07:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:07:04.029+07:00  INFO 948 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 948 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:07:04.041+07:00  INFO 948 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:07:04.976+07:00  INFO 948 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.037 seconds (process running for 3.141)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:07:04.985011841.txt
+[2026-02-11 11:07:01] Batch Finished.
+[2026-02-11 11:08:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:08:03.077+07:00  INFO 980 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 980 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:08:03.087+07:00  INFO 980 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:08:04.088+07:00  INFO 980 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.037 seconds (process running for 3.022)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:08:04.098002130.txt
+[2026-02-11 11:08:01] Batch Finished.
+[2026-02-11 11:09:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:09:03.293+07:00  INFO 1012 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 1012 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:09:03.307+07:00  INFO 1012 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:09:04.310+07:00  INFO 1012 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.072 seconds (process running for 3.131)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:09:04.321820143.txt
+[2026-02-11 11:09:01] Batch Finished.
+[2026-02-11 11:10:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:10:04.322+07:00  INFO 1044 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 1044 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:10:04.335+07:00  INFO 1044 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:10:05.648+07:00  INFO 1044 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 3.003 seconds (process running for 4.223)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:10:05.658333242.txt
+[2026-02-11 11:10:01] Batch Finished.
+[2026-02-11 11:11:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:11:04.563+07:00  INFO 1076 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 1076 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:11:04.573+07:00  INFO 1076 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:11:05.765+07:00  INFO 1076 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.594 seconds (process running for 3.997)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:11:05.776617768.txt
+[2026-02-11 11:11:01] Batch Finished.
+[2026-02-11 11:12:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:12:04.294+07:00  INFO 1108 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 1108 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:12:04.310+07:00  INFO 1108 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:12:05.437+07:00  INFO 1108 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.385 seconds (process running for 3.549)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:12:05.448583980.txt
+[2026-02-11 11:12:01] Batch Finished.
+[2026-02-11 11:13:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:13:03.517+07:00  INFO 1140 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 1140 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:13:03.528+07:00  INFO 1140 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:13:04.477+07:00  INFO 1140 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 1.958 seconds (process running for 2.912)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:13:04.488183465.txt
+[2026-02-11 11:13:01] Batch Finished.
+[2026-02-11 11:14:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:14:03.460+07:00  INFO 1172 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 1172 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:14:03.469+07:00  INFO 1172 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:14:04.490+07:00  INFO 1172 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.02 seconds (process running for 2.908)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:14:04.504367006.txt
+[2026-02-11 11:14:01] Batch Finished.
+[2026-02-11 11:15:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:15:03.573+07:00  INFO 1204 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 1204 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:15:03.583+07:00  INFO 1204 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:15:04.536+07:00  INFO 1204 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 1.974 seconds (process running for 2.908)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:15:04.545756664.txt
+[2026-02-11 11:15:01] Batch Finished.
+[2026-02-11 11:16:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:16:03.774+07:00  INFO 1236 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 1236 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:16:03.784+07:00  INFO 1236 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:16:04.779+07:00  INFO 1236 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.114 seconds (process running for 3.14)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:16:04.790007825.txt
+[2026-02-11 11:16:01] Batch Finished.
+[2026-02-11 11:17:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:17:04.140+07:00  INFO 1271 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 1271 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:17:04.154+07:00  INFO 1271 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:17:05.115+07:00  INFO 1271 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.21 seconds (process running for 3.23)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:17:05.123862202.txt
+[2026-02-11 11:17:01] Batch Finished.
+[2026-02-11 11:18:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:18:03.484+07:00  INFO 1303 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 1303 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:18:03.499+07:00  INFO 1303 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:18:04.495+07:00  INFO 1303 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.229 seconds (process running for 3.259)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:18:04.505476554.txt
+[2026-02-11 11:18:01] Batch Finished.
+[2026-02-11 11:19:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:19:04.079+07:00  INFO 1335 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 1335 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:19:04.096+07:00  INFO 1335 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:19:05.421+07:00  INFO 1335 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.612 seconds (process running for 3.813)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:19:05.434651484.txt
+[2026-02-11 11:19:01] Batch Finished.
+[2026-02-11 11:20:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:20:03.803+07:00  INFO 1367 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 1367 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:20:03.814+07:00  INFO 1367 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:20:04.816+07:00  INFO 1367 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.128 seconds (process running for 3.259)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:20:04.827153882.txt
+[2026-02-11 11:20:01] Batch Finished.
+[2026-02-11 11:21:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:21:04.262+07:00  INFO 1399 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 1399 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:21:04.278+07:00  INFO 1399 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:21:05.476+07:00  INFO 1399 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.457 seconds (process running for 3.502)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:21:05.488038670.txt
+[2026-02-11 11:21:01] Batch Finished.
+[2026-02-11 11:22:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:22:03.700+07:00  INFO 1431 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 1431 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:22:03.710+07:00  INFO 1431 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:22:04.741+07:00  INFO 1431 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.121 seconds (process running for 3.151)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:22:04.754551822.txt
+[2026-02-11 11:22:01] Batch Finished.
+[2026-02-11 11:23:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:23:04.162+07:00  INFO 1463 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 1463 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:23:04.172+07:00  INFO 1463 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:23:05.322+07:00  INFO 1463 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.317 seconds (process running for 3.454)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:23:05.337342460.txt
+[2026-02-11 11:23:01] Batch Finished.
+[2026-02-11 11:24:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:24:03.496+07:00  INFO 1496 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 1496 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:24:03.506+07:00  INFO 1496 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:24:04.468+07:00  INFO 1496 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.03 seconds (process running for 3.037)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:24:04.479231008.txt
+[2026-02-11 11:24:01] Batch Finished.
+[2026-02-11 11:25:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:25:03.680+07:00  INFO 1528 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 1528 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:25:03.690+07:00  INFO 1528 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:25:04.857+07:00  INFO 1528 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.319 seconds (process running for 3.287)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:25:04.870677159.txt
+[2026-02-11 11:25:01] Batch Finished.
+[2026-02-11 11:26:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-11T11:26:04.005+07:00  INFO 1560 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 1560 (/app/scripts/myapp.jar started by root in /root)
+2026-02-11T11:26:04.014+07:00  INFO 1560 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-11T11:26:05.086+07:00  INFO 1560 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.133 seconds (process running for 3.132)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-11T11:26:05.095946089.txt
+[2026-02-11 11:26:01] Batch Finished.
+[2026-02-12 08:56:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-12T08:56:05.635+07:00  INFO 27 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 27 (/app/scripts/myapp.jar started by root in /root)
+2026-02-12T08:56:05.650+07:00  INFO 27 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-12T08:56:12.670+07:00  INFO 27 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 9.119 seconds (process running for 11.24)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-12T08:56:12.688369956.txt
+[2026-02-12 08:56:01] Batch Finished.
+[2026-02-12 08:57:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-12T08:57:04.432+07:00  INFO 63 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 63 (/app/scripts/myapp.jar started by root in /root)
+2026-02-12T08:57:04.443+07:00  INFO 63 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-12T08:57:05.492+07:00  INFO 63 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.304 seconds (process running for 3.602)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-12T08:57:05.501391546.txt
+[2026-02-12 08:57:01] Batch Finished.
+[2026-02-12 08:58:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-12T08:58:07.833+07:00  INFO 101 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 101 (/app/scripts/myapp.jar started by root in /root)
+2026-02-12T08:58:07.845+07:00  INFO 101 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-12T08:58:09.411+07:00  INFO 101 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 3.219 seconds (process running for 7.704)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-12T08:58:09.428607960.txt
+[2026-02-12 08:58:01] Batch Finished.
+[2026-02-12 08:59:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-12T08:59:03.870+07:00  INFO 142 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 142 (/app/scripts/myapp.jar started by root in /root)
+2026-02-12T08:59:03.881+07:00  INFO 142 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-12T08:59:04.883+07:00  INFO 142 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.225 seconds (process running for 3.325)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-12T08:59:04.894403665.txt
+[2026-02-12 08:59:01] Batch Finished.
+[2026-02-12 09:00:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-12T09:00:04.447+07:00  INFO 174 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 174 (/app/scripts/myapp.jar started by root in /root)
+2026-02-12T09:00:04.459+07:00  INFO 174 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-12T09:00:05.660+07:00  INFO 174 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 2.497 seconds (process running for 3.664)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-12T09:00:05.671722689.txt
+[2026-02-12 09:00:01] Batch Finished.
+[2026-02-12 09:01:01] Starting Java Batch...
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.2)
+
+2026-02-12T09:01:04.689+07:00  INFO 206 --- [demo] [           main] com.example.demo.DemoApplication         : Starting DemoApplication v0.0.1-SNAPSHOT using Java 17.0.18 with PID 206 (/app/scripts/myapp.jar started by root in /root)
+2026-02-12T09:01:04.709+07:00  INFO 206 --- [demo] [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2026-02-12T09:01:07.406+07:00  INFO 206 --- [demo] [           main] com.example.demo.DemoApplication         : Started DemoApplication in 4.516 seconds (process running for 5.645)
+Starting file generation process...
+File created ATTH successfully: /app/scripts/output/sample-output_TEST00Z
+Timestamp: 2026-02-12T09:01:07.429216974.txt
+[2026-02-12 09:01:01] Batch Finished.
